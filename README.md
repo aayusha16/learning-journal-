@@ -1,4 +1,4 @@
 # learning-journal-
 This is my git repository. 
-<vr>
+<br>
 Author - Aayusha Bisunke 
